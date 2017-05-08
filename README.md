@@ -1,5 +1,5 @@
 
-![](http://thenocklist.com/html5/urban/images/pic01.jpg)
+![](http://thenocklist.com/html5/poly/images/templatemo_logo2.jpg)
 
 [LIVE DEMO](http://thenocklist.com/html5/urban/)
 
