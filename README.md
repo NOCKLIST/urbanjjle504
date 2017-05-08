@@ -1,7 +1,7 @@
 
 ![](http://thenocklist.com/html5/urban/images/pic01.jpg)
 
-[LIVE DEMO](http://thenocklist.com/html5/urban/
+[LIVE DEMO](http://thenocklist.com/html5/urban/)
 
 1. DOWNLOAD THE [NOCKLIST CONTENT URBAN INTEGRATION SYSTEM HOME V5.04 ZIP](https://github.com/NOCKLIST/urbanjjle504)
 
